@@ -1,2 +1,2 @@
-# paprikas-krumli
+# paprikas-krumpli
  
